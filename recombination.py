@@ -5,12 +5,6 @@ Created on Thu Feb 24 13:30:32 2022
 Brandon Sweeney
 bpsweeney@alaska.edu
 
-Jacob Keeler
-jckeeler@alaska.edu
-
-Paul James Natcher
-pjnatcher@alaska.edu
-
 """
 import random
 
