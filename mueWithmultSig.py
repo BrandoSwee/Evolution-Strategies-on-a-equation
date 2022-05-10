@@ -5,12 +5,6 @@ Created on Thu Feb 24 11:32:38 2022
 Brandon Sweeney
 bpsweeney@alaska.edu
 
-Jacob Keeler
-jckeeler@alaska.edu
-
-Paul James Natcher
-pjnatcher@alaska.edu
-
 """
 
 import numpy as np
